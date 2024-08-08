@@ -1,0 +1,121 @@
+{
+  "requests": [
+    {
+      "id": "fa97",
+      "name": "Пирс Броснан",
+      "phone": "1033267866",
+      "email": "pirs@google.com",
+      "product": "course-php",
+      "date": "2024-08-08T20:08:04.429Z",
+      "status": "new"
+    },
+    {
+      "id": "e120",
+      "name": "Эрнест Хемингуэй",
+      "phone": "1234555822",
+      "email": "ernest@google.com",
+      "product": "course-html",
+      "date": "2024-08-08T20:18:34.836Z",
+      "status": "inwork"
+    },
+    {
+      "id": "8479",
+      "name": "Анжелина Джоли",
+      "phone": "1334567892",
+      "email": "anji@google.com",
+      "product": "course-js",
+      "date": "2024-08-08T21:03:02.142Z",
+      "status": "new"
+    },
+    {
+      "id": "b79a",
+      "name": "Том Круз",
+      "phone": "1184537854",
+      "email": "tommi@google.com",
+      "product": "course-vue",
+      "date": "2024-08-08T21:03:02.661Z",
+      "status": "complete"
+    },
+    {
+      "id": "e584",
+      "name": "Фридрих Нитше",
+      "phone": "1214588811",
+      "email": "fridrih@google.com",
+      "product": "course-js",
+      "date": "2024-08-08T21:03:03.276Z",
+      "status": "inwork"
+    },
+    {
+      "id": "a55e",
+      "name": "Фридрих Нитше",
+      "phone": "1214588811",
+      "email": "fridrih@google.com",
+      "product": "course-js",
+      "date": "2024-08-08T21:03:23.454Z",
+      "status": "new"
+    },
+    {
+      "id": "7635",
+      "name": "Том Круз",
+      "phone": "1184537854",
+      "email": "tommi@google.com",
+      "product": "course-vue",
+      "date": "2024-08-08T21:03:23.743Z",
+      "status": "complete"
+    },
+    {
+      "id": "3d32",
+      "name": "Эрнест Хемингуэй",
+      "phone": "1234555822",
+      "email": "ernest@google.com",
+      "product": "course-html",
+      "date": "2024-08-08T21:03:24.255Z",
+      "status": "new"
+    },
+    {
+      "id": "f335",
+      "name": "Эмануил Кант",
+      "phone": "1584599899",
+      "email": "kant@google.com",
+      "product": "course-php",
+      "date": "2024-08-08T21:03:24.470Z",
+      "status": "complete"
+    },
+    {
+      "id": "b1eb",
+      "name": "Артур Шопенгауэр",
+      "phone": "1955567834",
+      "email": "artshopen@google.com",
+      "product": "course-wordpress",
+      "date": "2024-08-08T21:28:59.265Z",
+      "status": "new"
+    },
+    {
+      "id": "99d8",
+      "name": "Эмануил Кант",
+      "phone": "1584599899",
+      "email": "kant@google.com",
+      "product": "course-php",
+      "date": "2024-08-08T21:28:59.759Z",
+      "status": "new"
+    },
+    {
+      "id": "d283",
+      "name": "Артур Шопенгауэр",
+      "phone": "1955567834",
+      "email": "artshopen@google.com",
+      "product": "course-wordpress",
+      "date": "2024-08-08T21:29:00.179Z",
+      "status": "complete"
+    },
+    {
+      "id": "75a9",
+      "name": "Том Круз",
+      "phone": "1184537854",
+      "email": "tommi@google.com",
+      "product": "course-vue",
+      "date": "2024-08-08T21:36:18.072Z",
+      "status": "new"
+    }
+  ]
+}
